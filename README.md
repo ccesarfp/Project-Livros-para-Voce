@@ -1,4 +1,4 @@
-# Livros para Voce
+# Livros para Você
 Projeto desenvolvido em uma semana para ser entregue como Trabalho Final para uma matéria de Desenvolvimento Web.
 
 ## Página Home
